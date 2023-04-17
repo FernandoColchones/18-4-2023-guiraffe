@@ -1,0 +1,13 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="Tznos;JCb7WcWH={_uG-" x="0" y="0"></block><block type="device_forever" id="C:I`dnBRgcSoGeW!2D$B" x="205" y="0"></block><block type="device_button_event" id="@mEU;{9L#!R||6r(d/~1" x="80" y="220"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="controls_repeat_ext" id="i+ui10/A:Y/~+5[.#/_^"><value name="TIMES"><shadow type="math_whole_number" id="HF!u0/J?uSLYVLXAvP+y"><field name="NUM">4</field></shadow></value><statement name="DO"><block type="device_show_leds" id="C#$BN(lDixpd(t#X},,w"><field name="LEDS">`
+        # # . . . 
+        . # . . . 
+        . # . . # 
+        . # # # . 
+        . # . # .
+        `</field><next><block type="device_pause" id="#k?]LJ[ofhVdYmNK^xEh"><value name="pause"><shadow type="timePicker" id="Sx8H:H-+dQpyf!V|y92~"><field name="ms">1000</field></shadow></value><next><block type="basic_show_icon" id="9}m!vpEM.L2MgR7#Q5q6"><field name="i">IconNames.Happy</field><next><block type="device_pause" id="AgYNkG7C2XiDBxdz{;*9"><value name="pause"><shadow type="timePicker" id=",wEs}aWFaY5GA#yd+2H]"><field name="ms">1000</field></shadow></value><next><block type="device_show_leds" id="M2@6ow8A=15R(U%hZ5%b"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . # # # . 
+        # # . # . 
+        . . . # #
+        `</field><next><block type="device_pause" id="45KY0ej|M:pU1n]-7S^j"><value name="pause"><shadow type="timePicker" id="X.Bp2Ury;hP`[w]H{Zb7"><field name="ms">1000</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></statement><next><block type="device_clear_display" id="7#s3cTjO=)pL1fzjaVVV"></block></next></block></statement></block></xml>
